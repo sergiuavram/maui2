@@ -63,3 +63,15 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = sergiuavram.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/uni/dotnet/maui2/sergiuavram/ShopEntryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = sergiuavram.ShopEntryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ShopEntryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ShopEntryPage.xaml
+
+[D:/uni/dotnet/maui2/sergiuavram/ShopPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = sergiuavram.ShopPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ShopPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ShopPage.xaml

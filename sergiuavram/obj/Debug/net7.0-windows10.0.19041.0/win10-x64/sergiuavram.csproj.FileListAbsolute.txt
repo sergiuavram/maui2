@@ -331,3 +331,4 @@ D:\uni\dotnet\maui2\sergiuavram\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\S
 D:\uni\dotnet\maui2\sergiuavram\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
 D:\uni\dotnet\maui2\sergiuavram\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
 D:\uni\dotnet\maui2\sergiuavram\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLiteNetExtensions.dll
+D:\uni\dotnet\maui2\sergiuavram\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Plugin.LocalNotification.dll
