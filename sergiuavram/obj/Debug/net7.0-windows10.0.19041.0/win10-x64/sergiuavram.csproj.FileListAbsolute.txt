@@ -323,3 +323,9 @@ D:\uni\dotnet\maui2\sergiuavram\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\q
 D:\uni\dotnet\maui2\sergiuavram\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\uni\dotnet\maui2\sergiuavram\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
 D:\uni\dotnet\maui2\sergiuavram\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\shop_list.scale-100.jpg
+D:\uni\dotnet\maui2\sergiuavram\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
+D:\uni\dotnet\maui2\sergiuavram\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+D:\uni\dotnet\maui2\sergiuavram\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.nativelibrary.dll
+D:\uni\dotnet\maui2\sergiuavram\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+D:\uni\dotnet\maui2\sergiuavram\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\uni\dotnet\maui2\sergiuavram\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
