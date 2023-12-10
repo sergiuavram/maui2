@@ -1,0 +1,1 @@
+D:\uni\dotnet\maui2\sergiuavram\sergiuavram.csproj;x64
